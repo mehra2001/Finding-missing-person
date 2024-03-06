@@ -3,7 +3,7 @@ Find Missing Person Using AI: It is an android application to locate the missing
 
 [**Download app here**](https://drive.google.com/file/d/1Zb_rRoAps0FOOLtIK9t9EB-xqDQQRURN/view?usp=sharing)
 
-[__Kindly fill this form for more details__](https://docs.google.com/forms/d/e/1FAIpQLSfmw6i4hEwR2RYDagAlU1sDDNhEGFuHQWLeyMGBydY7n9kEBA/viewform?usp=sf_link)
+
 
 #### Some Screenshots of this app
 
@@ -21,13 +21,11 @@ Find Missing Person Using AI: It is an android application to locate the missing
 <img src="https://github.com/sanskarpawar/Laapata-Find-Missing-Person-Using-AI/assets/39761857/b1dfca7d-59ff-4a36-9180-2f5ad65cc55f" width="200" height="400"/>| <img src="https://github.com/sanskarpawar/Laapata-Find-Missing-Person-Using-AI/assets/39761857/15540fef-7441-4836-86fd-74b59a2828ce" width="200" height="400"/>| <img src="https://github.com/sanskarpawar/Laapata-Find-Missing-Person-Using-AI/assets/39761857/6bc46a6d-650e-4628-9553-740ca77c5792" width="200" height="400"/>| <img src="https://github.com/sanskarpawar/Laapata-Find-Missing-Person-Using-AI/assets/39761857/7cc984b3-d4e9-4b01-9e01-a6d97c4c4e9b" width="200" height="400"/>
  
  
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Support
 
-For support, email pawarsanskar50@gmail.com 
+For support, email adityamehrabrock@gmail.com 
  
  
  
